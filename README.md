@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **ritu.kansal456@gmail.com ; ritu.kansal.ug22@nsut.ac.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WlZ0sTMdJ9WFwcchpH5kjPVHHbztHJMe/view?usp=sharing)
-
 - ⚡ Fun fact **I think I express more than writing code!**
 
 <h3 align="left">Connect with me:</h3>
